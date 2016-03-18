@@ -33,17 +33,11 @@ $string['choosereadme'] = '
 <p>MSDLT is a modified Moodle bootstrap theme which inherits styles and renderers from its parent theme.</p>
 <p>The aim of MSDLT is to provide a theme which can be used for quizzes which are deliveredy by BasicLTI. These will sometimes be embedded in WebLearn pages and so need to be simple and largely free from branding</p>
 <h3>Parents</h3>
-<p>This theme is based upon the Bootstrap theme, which was created for Moodle 2.5, with the help of:<br>
-Stuart Lamour, Mark Aberdour, Paul Hibbitts, Mary Evans.</p>
-<h3>Theme Credits</h3>
-<p>Authors: Bas Brands, David Scotson, Mary Evans<br>
-Contact: bas@sonsbeekmedia.nl<br>
-Website: <a href="http://www.basbrands.nl">www.basbrands.nl</a>
-</p>
+<p>This theme is derived from the Clean theme which is in turn based upon the Bootstrap theme.</p>
+<p>The Clean theme is the work of Stuart Lamour, Mark Aberdour, Paul Hibbitts, Mary Evans.</p>
+<p>The Bootstrap theme is the work of Bas Brands, David Scotson, Mary Evans</p>
 <h3>Report a bug:</h3>
-<p><a href="http://tracker.moodle.org">http://tracker.moodle.org</a></p>
-<h3>More information</h3>
-<p><a href="msdlt/README.txt">How to copy and customise this theme.</a></p>
+<p><a href="https://github.com/whanrott/moodle_theme_msdlt/issues">https://github.com/whanrott/moodle_theme_msdlt/issues</a></p>
 </div></div>';
 
 $string['configtitle'] = 'MSDLT';
